@@ -1,7 +1,7 @@
 import threading
 import socket
 
-serverip = "localhost"
+serverip = "10.97.43.81"
 port = 9999
 serveraddress = (serverip,port)
 
